@@ -1,0 +1,28 @@
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.csprojAssemblyReference.cache
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmMain.resources
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.Properties.Resources.resources
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.csproj.GenerateResource.cache
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.exe.config
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.exe
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.pdb
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.exe
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.pdb
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmRadio.resources
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmCheck.resources
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.Combo.resources
+C:\Users\جود\Desktop\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.Random.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.exe.config
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.exe
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\bin\Debug\Joud Applecation.pdb
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.csprojAssemblyReference.cache
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.Combo.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmMain.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmCheck.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.frmImage.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.FrmRadio.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.frmRandomCombo.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.Properties.Resources.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud_Applecation.frmRandom.resources
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.csproj.GenerateResource.cache
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.exe
+C:\Users\جود\Desktop\eng\ie-322_1846324\Joud Applecation\Joud Applecation\obj\Debug\Joud Applecation.pdb
